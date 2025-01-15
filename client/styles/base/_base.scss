@@ -151,3 +151,10 @@ textarea:focus {
 	white-space: nowrap;
 	width: 1px;
 }
+
+
+// Donate banner custom properties
+body {
+	--donate-banner-dark: #c01c4c;
+	--donate-banner-background: url('https://foundation-donate-banner.netlify.app/p5.png');
+}

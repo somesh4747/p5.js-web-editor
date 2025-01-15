@@ -22,14 +22,7 @@ Make your first sketch in the [p5.js Editor](https://editor.p5js.org/)! Learn mo
 If you have found a bug in the p5.js Web Editor, you can file it under the ["issues" tab](https://github.com/processing/p5.js-web-editor/issues). You can also request new features here. A set of templates for reporting issues and requesting features are provided to assist you (and us!). The p5.js Editor is maintained mostly by volunteers, so we thank you for your patience as we try to address your issues as soon as we can. Please post bugs and feature requests in the correct repository if you can:
 
 * p5.js library: [https://github.com/processing/p5.js/issues](https://github.com/processing/p5.js/issues)
-* p5.accessibility: [https://github.com/processing/p5.accessibility/issues](https://github.com/processing/p5.accessibility/issues)
-* p5.sound: [https://github.com/processing/p5.js-sound/issues](https://github.com/processing/p5.js-sound/issues)
 * p5.js website: [https://github.com/processing/p5.js-website/issues](https://github.com/processing/p5.js-website/issues)
-
-
-### How Do I Know My Issue or Pull Request is Getting Reviewed?
-
-To see which pull requests and issues are currently being reviewed, check the [PR Review Board](https://github.com/processing/p5.js-web-editor/projects/9) or the following Milestones: [MINOR Release](https://github.com/processing/p5.js-web-editor/milestone/8). 
 
 
 ## References for Contributing to the p5.js Web Editor
@@ -53,5 +46,3 @@ Hosting and technical support has come from:
 <a href="https://releasehub.com/" target="_blank"><img width="100" src="https://assets.website-files.com/603dd147c5b0a480611bd348/603dd147c5b0a469bc1bd451_logo--dark.svg" /></a>
 <br />
 <a href="https://www.browserstack.com/" target="_blank"><img width="100" src="https://user-images.githubusercontent.com/6063380/46976166-ab280a80-d096-11e8-983b-18dd38c8cc9b.png" /></a>
-<br />
-<a href="https://www.fastly.com/" target="_blank"><img width="100" src="https://cdn-assets-us.frontify.com/s3/frontify-enterprise-files-us/eyJwYXRoIjoiZmFzdGx5XC9hY2NvdW50c1wvYzJcLzQwMDEwMjNcL3Byb2plY3RzXC8xMVwvYXNzZXRzXC80ZVwvNzc0XC9lZTZmYzlkOWYzNWE1NjBkNjUzNjFkNGI0NGQ2MTNmZi0xNjIxNTIyODg4LnBuZyJ9:fastly:nVuY3PxyFqQMI6elJsMzxAGLH3IFlmiuMdacHAGRMkE?width=2400" /></a>
